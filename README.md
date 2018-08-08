@@ -3,8 +3,6 @@ Lists (RecyclerView)
 
 As Lists apresentam vários itens verticalmente como um único elemento contínuo.
 
-***Esse projeto faz parte do Curso Completo de Android Material Design ([https://www.udemy.com/curso-android-material-design/](https://www.udemy.com/curso-android-material-design/?couponCode=ANDROIDPRO))***
-
 
 Pré-requisitos
 --------------
